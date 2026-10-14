@@ -11,7 +11,6 @@ the prospect of contributing my skills to projects that make a meaningful impact
 
 ---
 
-(Links above are examples — replace with your actual repos!)
 
 ## 📊 GitHub stats
 <p align="left">
