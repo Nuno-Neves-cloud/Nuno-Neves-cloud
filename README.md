@@ -23,11 +23,3 @@ the prospect of contributing my skills to projects that make a meaningful impact
 - Email: nunob.costaneves@gmail.com
 - LinkedIn: https://www.linkedin.com/in/nuno-costa-neves/
 
----
-
-## 🛠️ How to use this README
-1. Create a repository named exactly `Nuno-Neves-cloud` (the same as your GitHub username).
-2. Add this README.md as the repository root README.
-3. Push to GitHub — the contents will appear on your profile homepage.
-
-Want me to create the repository and add this README for you? I can do that if you give me permission.
