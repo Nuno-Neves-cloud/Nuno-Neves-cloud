@@ -21,7 +21,7 @@ https://github.com/Nuno-Neves-cloud/Master-Thesis
 Chatbot designed to generate and recommend workout exercises.
 
 🔗 **Repository:**  
-https://github.com/Nuno-Neves-cloud/ChatBot_WorkoutExercises_v2
+https://github.com/Nuno-Neves-cloud/ChatBot_WorkoutExercises
 
 ---
 
