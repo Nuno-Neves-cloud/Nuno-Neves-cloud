@@ -26,6 +26,6 @@ https://www.linkedin.com/in/nuno-costa-neves/
 
 ---
 
-<p align="center">
-https://visitor-badge.laobi.icu/badge?page_id=Nuno-Neves-cloud.Nuno-Neves-cloud
+<p align="left">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Nuno-Neves-cloud.Nuno-Neves-cloud" alt="Profile Views" />
 </p>
