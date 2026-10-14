@@ -27,5 +27,5 @@ https://www.linkedin.com/in/nuno-costa-neves/
 ---
 
 <p align="center">
-  https://komarev.com/ghpvc/?username=Nuno-Neves-cloud&style=for-the-badge&color=blue
+https://visitor-badge.laobi.icu/badge?page_id=Nuno-Neves-cloud.Nuno-Neves-cloud
 </p>
