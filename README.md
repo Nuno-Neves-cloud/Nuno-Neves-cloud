@@ -1,4 +1,4 @@
-# 👋 Hello — I'm Nuno Costa Neves (Nuno-Neves-cloud)
+# 👋 Hello — I'm Nuno Costa Neves 
 
 <!-- Welcome banner -->
 <p align="center">
