@@ -9,6 +9,11 @@ Hi — I'm Nuno, a Software Engineer, with great problem-solving skills to defin
 
 ---
 
+## Projects:
+
+-Thesis: https://github.com/Nuno-Neves-cloud/Master-Thesis
+-Home Workouts Chatbot: https://github.com/Nuno-Neves-cloud/ChatBot_WorkoutExercises_v2
+
 ## 📊 GitHub stats
 
 <p align="left">
