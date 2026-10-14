@@ -12,7 +12,7 @@ Hi — I'm Nuno, a Software Engineer, with great problem-solving skills to defin
 ## 🚀 Featured Projects
 
 ### 🎓 Master's Thesis
-AR-based tool developed to visualize cortical thickness variations in Alzheimer's Disease using MRI data and interactive 3D brain models.
+Developed an AR-based tool to visualize cortical thickness variations associated with Alzheimer's disease using MRI data and interactive 3D brain models.
 
 🔗 **Repository:**  
 https://github.com/Nuno-Neves-cloud/Master-Thesis
