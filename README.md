@@ -9,10 +9,21 @@ Hi — I'm Nuno, a Software Engineer, with great problem-solving skills to defin
 
 ---
 
-## Projects:
+## 🚀 Featured Projects
 
--Thesis: https://github.com/Nuno-Neves-cloud/Master-Thesis
--Home Workouts Chatbot: https://github.com/Nuno-Neves-cloud/ChatBot_WorkoutExercises_v2
+### 🎓 Master's Thesis
+Research and development project completed as part of my Master's Degree.
+
+🔗 **Repository:**  
+https://github.com/Nuno-Neves-cloud/Master-Thesis
+
+### 🤖 Home Workouts Chatbot
+Chatbot designed to generate and recommend workout exercises.
+
+🔗 **Repository:**  
+https://github.com/Nuno-Neves-cloud/ChatBot_WorkoutExercises_v2
+
+---
 
 ## 📊 GitHub stats
 
