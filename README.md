@@ -18,7 +18,10 @@ the prospect of contributing my skills to projects that make a meaningful impact
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nuno-Neves-cloud&layout=compact&theme=radical" alt="Top languages" />
 </p>
 
-## 💬 Say hi
-- Email: nunob.costaneves@gmail.com
-- LinkedIn: https://www.linkedin.com/in/nuno-costa-neves/
+## 📫 Connect With Me
+ 
+📧 **Email:** 
+nunob.costaneves@gmail.com
+🔗 **LinkedIn:**
+https://www.linkedin.com/in/nuno-costa-neves/
 
