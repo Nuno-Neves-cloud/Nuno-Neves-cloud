@@ -23,7 +23,7 @@ Chatbot designed to generate and recommend workout exercises.
 🔗 **Repository:**  
 https://github.com/Nuno-Neves-cloud/ChatBot_WorkoutExercises
 
-### 🤖 ETFPulse
+### 📈 ETFPulse
 ETFPulse is a cross-platform app for checking recent closing prices for European ETFs.
 
 🔗 **Repository:**  
